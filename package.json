@@ -1,0 +1,9 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Band Quiz",
+  "main": "index.js",
+  "repository": "git@github.com:sarahhay7/quiz.git",
+  "author": "sarahhay7@gmail.com",
+  "license": "MIT"
+}

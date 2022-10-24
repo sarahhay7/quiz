@@ -12,5 +12,6 @@
   },
   "scripts": {
     "test": "NODE_ENV=test jest"
-  }
+  },
+  "dependencies": {}
 }

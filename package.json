@@ -19,6 +19,7 @@
     "typescript": "*"
   },
   "scripts": {
-    "test": "NODE_ENV=test jest"
+    "test": "NODE_ENV=test jest",
+    "lint": "npx eslint ."
   }
 }

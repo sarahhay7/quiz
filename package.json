@@ -7,6 +7,7 @@
   "author": "sarahhay7@gmail.com",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^29.2.0",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "eslint": "^8.0.1",
     "eslint-config-standard-with-typescript": "^23.0.0",
@@ -19,6 +20,5 @@
   },
   "scripts": {
     "test": "NODE_ENV=test jest"
-  },
-  "dependencies": {}
+  }
 }
